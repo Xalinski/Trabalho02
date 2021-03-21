@@ -4,12 +4,14 @@ let salvarFormulario = () => {
     const idade = document.getElementById('idade');
     const email = document.getElementById('email');
     const endereço = document.getElementById('endereço');
+    const fone = document.getElementById('fone')
 
     
     let data = 
         '\r Nome: ' + nome.value + ' \r\n ' + 
         'Idade: ' +idade.value + ' \r\n ' + 
         'Email: ' + email.value + ' \r\n ' + 
+        'Telefone: ' + fone.value + ' \r\n ' + 
         'Endereço: ' + endereço.value;
     
     const textoParaBlob = new Blob([data], { type: 'text/plain' });
