@@ -1,1 +1,1 @@
-### Formulário que fiz para faculdade, acesse clicando [aqui](https://xalinski.github.io/trabalho-faculdade/).
+### Formulário que fiz para faculdade, acesse clicando [aqui](https://xalinski.github.io/trabalho-faculdade02/).
